@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "title": "Joe Rogan API Experience",
+        "project": "https://cdn.glitch.com/7d9e80e5-cf2e-47b5-8b83-1a4dc62423e7%2Fjoe-rogan-portfolio-png.png?v=1569280186968",
+        "description": "A REST API serving Joe Rogan quotes of inspiration. This service can provide one quote or multiple quotes up to fifty in a JSON format.",
+        "languages": ["JS", "MongoDB", "Express", "Node"],
+        "livelink": "https://joe-rogan-quote-api.glitch.me/",
+        "gitlink": "https://github.com/ZanderBE/joe-rogan-quote-api"
+    },
+    {
+        "id": 2,
+        "title": "iPrice Crypto Dashboard",
+        "project": "https://cdn.glitch.com/7d9e80e5-cf2e-47b5-8b83-1a4dc62423e7%2Fiprice_computer_mockup.png?v=1569553382178",
+        "description": "A Cryptocurrency price tracker that uses the CryptoCompare API to serve updated prices on six different coins including Bitcoin, Ethereum, Zcash, Litecoin and more.",
+        "languages": ["React", "Node", "RestAPI", "JS"],
+        "livelink": "https://crypto-dashboard.glitch.me/",
+        "gitlink": "https://github.com/ZanderBE/crypto-dashboard"
+    },
+    {
+        "id": 3,
+        "title": "Pomodoro Timer",
+        "project": "https://cdn.glitch.com/7d9e80e5-cf2e-47b5-8b83-1a4dc62423e7%2Fpomodoro_computer_img.png?v=1569558644279",
+        "description": "A Timer that uses the Pomodoro technique for completing tasks. The timer uses a react framework to power the clock and timer options for the user.",
+        "languages": ["CSS", "React", "JS", "Node"],
+        "livelink": "https://pomodoro-app-zander.glitch.me/",
+        "gitlink": "https://github.com/ZanderBE/pomodoro-timer"
+    },
+    {
+        "id": 4,
+        "title": "Employee Directory",
+        "project": "https://cdn.glitch.com/7d9e80e5-cf2e-47b5-8b83-1a4dc62423e7%2Femployeedirectory_computer_image.png?v=1569559143956",
+        "description": "Built an employee directory by communicating with a third-party API. Javascript was used to pull API data to build out employee cards and modals.",
+        "languages": ["JS", "RestAPI", "CSS", "HTML"],
+        "livelink": "https://zanderbe.github.io/techdegree-unit-8/",
+        "gitlink": "https://github.com/ZanderBE/techdegree-unit-8"
+    },
+    {
+        "id": 5,
+        "title": "Simpsons Quote Machine",
+        "project": "https://cdn.glitch.com/7d9e80e5-cf2e-47b5-8b83-1a4dc62423e7%2Fsimpsons_computer_image.png?v=1569560150860",
+        "description": "A simpson quote generator built using React.js and REST API that displays random simpsons quotes for the user.",
+        "languages": ["React", "RestAPI", "Node", "JS"],
+        "livelink": "https://zanderbe-simpson-quote-machine.glitch.me/",
+        "gitlink": "https://github.com/ZanderBE/simpson-quote-machine"
+    },
+    {
+        "id": 6,
+        "title": "Drum Machine",
+        "project": "https://cdn.glitch.com/7d9e80e5-cf2e-47b5-8b83-1a4dc62423e7%2Fdrummachine_computer_image.png?v=1569560938995",
+        "description": "A drum machine built using React.js that plays 9 different drum sounds based off mouse clicks or corresponding keys on the keyboard.",
+        "languages": ["JS", "React", "Node", "CSS"],
+        "livelink": "https://zanderbe-drum-machine.glitch.me/",
+        "gitlink": "https://github.com/ZanderBE/drum-machine"
+    }
+]
+

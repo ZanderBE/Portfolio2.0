@@ -1,0 +1,8 @@
+.homepage-main-container {
+  background-image: url(https://cdn.glitch.com/7d9e80e5-cf2e-47b5-8b83-1a4dc62423e7%2Fsplashpage%20background.svg?v=1569000700733);
+  /* height: 750px; */
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-bottom-right-radius: 100px;
+}

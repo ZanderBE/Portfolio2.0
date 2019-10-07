@@ -1,0 +1,17 @@
+.quote-main-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.quote {
+    color: white;
+    font-size: 36px;
+}
+
+@media screen and (max-width: 683px) {
+  .quote {
+    font-size: 18px;
+  }
+}
